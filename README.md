@@ -5,7 +5,7 @@
 
 ## Usage
 ```c++
-#include "#include "TaichungCodingStyle.h""
+#include "TaichungCodingStyle.h"
 ```
 
 ## Example
